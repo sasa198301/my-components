@@ -1,0 +1,1 @@
+Fejlécekben általában csak logót, cég nevet használunk.
